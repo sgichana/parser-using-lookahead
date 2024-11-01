@@ -1,10 +1,5 @@
 
 package projecthawk;
-
-
-
-
-//   Sylvia Gichana
 import java.util.HashMap;
 import java.util.Scanner;
 import java.io.FileInputStream;
